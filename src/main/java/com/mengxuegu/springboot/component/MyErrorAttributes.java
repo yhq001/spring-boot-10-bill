@@ -9,7 +9,7 @@ import java.util.Map;
 
 /**
  * 自定义数据进行响应
- * @Auther: 梦学谷
+ * @Auther:
  */
 @Component //向容器中添加该组件
 public class MyErrorAttributes extends DefaultErrorAttributes {

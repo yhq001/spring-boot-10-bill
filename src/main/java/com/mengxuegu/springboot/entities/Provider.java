@@ -6,7 +6,7 @@ import java.util.Date;
  * 供应商实体类
  * @Title: Provider
  * @Description: com.mengxuegu.springboot.entities
- * @Auther: www.mengxuegu.com
+ * @Auther:
  * @Version: 1.0
  */
 

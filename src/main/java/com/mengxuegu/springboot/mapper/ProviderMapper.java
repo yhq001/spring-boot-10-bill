@@ -6,7 +6,7 @@ import com.mengxuegu.springboot.entities.Provider;
 import java.util.List;
 
 /**
- * @Auther: 梦学谷
+ * @Auther:
  */
 //@Mapper 或 @MapperScan("com.mengxuegu.springboot.mapper")
 public interface ProviderMapper {

@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * 定义登录拦截器
- * @Auther: 梦学谷
+ * @Auther:
  */
 public class LoginHandlerInterceptor implements HandlerInterceptor {
 

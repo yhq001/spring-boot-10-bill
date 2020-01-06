@@ -11,7 +11,7 @@ import java.util.Locale;
 
 /**
  * 自定义区域解析器
- * @Auther: 梦学谷
+ * @Auther:
  */
 public class MyLocaleResolver implements LocaleResolver {
     Logger logger = LoggerFactory.getLogger(getClass());
