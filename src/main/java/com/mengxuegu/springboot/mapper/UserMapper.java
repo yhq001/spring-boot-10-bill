@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Mapper;
 import java.util.List;
 
 /**
- * @Auther: 梦学谷
+ * @Auther:
  */
 @Mapper
 public interface UserMapper {
